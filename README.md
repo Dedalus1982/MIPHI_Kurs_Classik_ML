@@ -1,4 +1,5 @@
 # MIPHI_Kurs_Classik_ML
+В папке MODELS - файлы с выигрывшими моделями
 
 В папке CODE:
 
